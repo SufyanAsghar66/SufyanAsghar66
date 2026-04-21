@@ -1,5 +1,21 @@
-# 💫 About Me:
-✨ About Me (ready to paste)<br>🔭 I’m currently working on<br><br>AI/ML based real-time voice translation calling app with voice cloning and emotion preservation, plus full-stack web projects and backend APIs.<br><br>👯 I’m looking to collaborate on<br><br>AI/ML projects, SaaS startups, LLM applications, and real-world problem solving using Python and full-stack development.<br><br>🤝 I’m looking for help with<br><br>Scaling AI products, deploying ML models to production, and building high-performance real-time systems.<br><br>🌱 I’m currently learning<br><br>Deep Learning, MLOps, LLM integration, system design, and advanced backend development.<br><br>💬 Ask me about<br><br>Python, Machine Learning, Neural Networks, Clustering, Backend Development, Git/GitHub, and AI project ideas.<br><br>⚡ Fun fact<br><br>I love turning complex AI ideas into real products and startups 🚀
+# About Me:
+I’m currently working on
+AI/ML based real-time voice translation calling app with voice cloning and emotion preservation, along with full-stack web projects and backend APIs.
+
+I’m looking to collaborate on
+AI/ML projects, SaaS startups, LLM applications, and real-world problem solving using Python and full-stack development.
+
+I’m looking for help with
+Scaling AI products, deploying machine learning models to production, and building high-performance real-time systems.
+
+I’m currently learning
+Deep Learning, MLOps, LLM integration, system design, and advanced backend development.
+
+Ask me about
+Python, Machine Learning, Neural Networks, Clustering, Backend Development, Git and GitHub, and AI project ideas.
+
+Fun fact
+I enjoy turning complex AI ideas into real products and startup concepts.
 
 
 ## 🌐 Socials:
