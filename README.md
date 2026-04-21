@@ -1,5 +1,7 @@
 # About Me
-I’m currently working on<br>AI/ML based real-time voice translation calling app with voice cloning and emotion preservation, along with full-stack web projects and backend APIs.<br><br>I’m looking to collaborate on<br>AI/ML projects, SaaS startups, LLM applications, and real-world problem solving using Python and full-stack development.<br><br>I’m looking for help with<br>Scaling AI products, deploying machine learning models to production, and building high-performance real-time systems.<br><br>I’m currently learning<br>Deep Learning, MLOps, LLM integration, system design, and advanced backend development.<br><br>Ask me about<br>Python, Machine Learning, Neural Networks, Clustering, Backend Development, Git and GitHub, and AI project ideas.<br><br>Fun fact<br>I enjoy turning complex AI ideas into real products and startup concepts.
+I am an aspiring AI Engineer with a strong interest in building intelligent, scalable, and real-world technology solutions. My work focuses on machine learning, backend development, and full-stack applications, with an emphasis on turning ideas into practical products.
+
+I enjoy exploring modern AI technologies, designing efficient systems, and continuously improving my skills in deep learning, MLOps, and system design. I am passionate about collaborating on innovative projects and contributing to impactful solutions that solve real problems.
 
 
 ## 🌐 Socials:
